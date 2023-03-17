@@ -1,0 +1,38 @@
+project:
+  type: website
+  
+execute: 
+  freeze: true
+
+website:
+  title: "Maissa, the creator of this super cool website"
+  description: The personal website of Maissa and Clara
+  twitter-card: true
+  open-graph: true
+  navbar:
+    search: true
+    left:
+      - file: index.qmd
+        text: Home
+      - file: about.qmd
+        text: About
+      - file: achievements.qmd
+        text: Achievements
+    right: 
+      - icon: linkedin
+        href: https://www.linkedin.com/in/maissa-abu-ayash-38495b214/
+    page-footer:
+        center: |
+         © 2023 Maissa 
+
+
+format:
+  html:
+    theme: 
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+
+editor: visual
+

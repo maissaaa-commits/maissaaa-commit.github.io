@@ -1,0 +1,14 @@
+---
+title: "About Us"
+about: 
+   template: broadside
+   image: IMG_8322.jpeg
+   image-width: 10cm
+   image-shape: rectangle
+   links: 
+     - icon: linkedin 
+       text: linkedin
+       href: https://www.linkedin.com/in/clara-alfageme-garcia-aranda-624328222/
+---
+
+About the sisters

@@ -1,0 +1,14 @@
+{
+  "hash": "b976d9d875aaaed3f42d31924a639a1b",
+  "result": {
+    "markdown": "---\ntitle: \"Maissa and Clara's super cool website <3\"\n---\n\n\n## First News\n\n## Second News\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
